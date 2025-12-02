@@ -7,7 +7,7 @@ import ParfumeCard from './components/ParfumeCard';
 import { Sparkles } from 'lucide-react';
 
 function App() {
-  const [selectedGenders, setSelectedGenders] = useState<string[]>(['Erkek', 'Kadın', 'Unisex']);
+  const [selectedGenders, setSelectedGenders] = useState<string[]>([]);
   const [selectedSeasons, setSelectedSeasons] = useState<string[]>([]);
   const [selectedNotes, setSelectedNotes] = useState<string[]>([]);
 
@@ -154,3 +154,4 @@ function App() {
 }
 
 export default App;
+
