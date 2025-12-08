@@ -6397,5 +6397,42 @@ export const parfumes: Parfume[] = [
       "Sandal Ağacı",
       "Kaşmeran"
     ]
+  },
+ {
+    "marka": "Burberry",
+    "adi": "For Men",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Burberry For Men - 4 Mevsim için uygun erkek parfümü.",
+    "notalar": [
+      "Lavanta",
+      "Bergamot",
+      "Kekik",
+      "Sedir",
+      "Sandal Ağacı",
+      "Sardunya",
+      "Yasemin",
+      "Meşe Yosunu",
+      "Misk",
+      "Vanilya",
+      "Amber"
+    ],
+    "ustNota": [
+      "Lavanta",
+      "Bergamot",
+      "Kekik"
+    ],
+    "ortaNota": [
+      "Sedir",
+      "Sandal Ağacı",
+      "Sardunya",
+      "Yasemin",
+      "Meşe Yosunu"
+    ],
+    "altNota": [
+      "Misk",
+      "Vanilya",
+      "Amber"
+    ]
   }
 ];
