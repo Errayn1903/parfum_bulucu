@@ -2503,7 +2503,7 @@ export const parfumes: Parfume[] = [
     "idealSezon": "Kışlık",
     "kisaAciklama": "Jean Paul Gaultier Le Male Elixir - Kışlık için uygun erkek parfümü.",
     "notalar": [
-      "Mint",
+      "Nane",
       "Tarçın",
       "Lavanta",
       "Ardıç",
@@ -2513,7 +2513,7 @@ export const parfumes: Parfume[] = [
       "Tonka Fasulyesi"
     ],
     "ustNota": [
-      "Mint",
+      "Nane",
       "Tarçın",
       "Lavanta"
     ],
