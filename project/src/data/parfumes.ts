@@ -6408,6 +6408,7 @@ export const parfumes: Parfume[] = [
       "Lavanta",
       "Bergamot",
       "Kekik",
+      "Nane",
       "Sedir",
       "Sandal Ağacı",
       "Sardunya",
@@ -6420,7 +6421,8 @@ export const parfumes: Parfume[] = [
     "ustNota": [
       "Lavanta",
       "Bergamot",
-      "Kekik"
+      "Kekik",
+      "Nane"
     ],
     "ortaNota": [
       "Sedir",
