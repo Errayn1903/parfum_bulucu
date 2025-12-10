@@ -6472,4 +6472,73 @@ export const parfumes: Parfume[] = [
       "Vetiver"
     ]
   },    
+{
+    "marka": "Burberry",
+    "adi": "London For Woman",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Burberry London For Woman - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Hanımeli",
+      "Mandalina",
+      "Gül",
+      "Yasemin",
+      "Tiare Çiçeği",
+      "Şakayık",
+      "Klementin",
+      "Misk",
+      "Sandal Ağacı",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Hanımeli",
+      "Mandalina",
+      "Gül"
+    ],
+    "ortaNota": [
+      "Yasemin",
+      "Tiare Çiçeği",
+      "Şakayık",
+      "Klementin"
+    ],
+    "altNota": [
+      "Misk",
+      "Sandal Ağacı",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Burberry",
+    "adi": "London For Men",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Burberry London For Men - Kışlık erkek parfümü.",
+    "notalar": [
+      "Tarçın",
+      "Lavanta",
+      "Bergamot",
+      "Deri",
+      "Mimoza",
+      "Tütün Yaprağı",
+      "Guaiac Ağacı",
+      "Opoponaks",
+      "Meşe Yosunu"
+    ],
+    "ustNota": [
+      "Tarçın",
+      "Lavanta",
+      "Bergamot"
+    ],
+    "ortaNota": [
+      "Deri",
+      "Mimoza"
+    ],
+    "altNota": [
+      "Tütün Yaprağı",
+      "Guaiac Ağacı",
+      "Opoponaks",
+      "Meşe Yosunu"
+    ]
+  }
 ];
+
