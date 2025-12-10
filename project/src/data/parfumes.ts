@@ -6434,5 +6434,40 @@ export const parfumes: Parfume[] = [
       "Vanilya",
       "Amber"
     ]
-  }
+  },
+   {
+    "marka": "Viktor&Rolf",
+    "adi": "Spicebomb",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Viktor&Rolf Spicebomb - Kışlık için uygun erkek parfümü.",
+    "notalar": [
+      "Pembe Biber",
+      "Elemi",
+      "Bergamot",
+      "Greyfurt",
+      "Tarçın",
+      "Paprika",
+      "Safran",
+      "Tütün",
+      "Deri",
+      "Vetiver"
+    ],
+    "ustNota": [
+      "Pembe Biber",
+      "Elemi",
+      "Bergamot",
+      "Greyfurt"
+    ],
+    "ortaNota": [
+      "Tarçın",
+      "Paprika",
+      "Safran"
+    ],
+    "altNota": [
+      "Tütün",
+      "Deri",
+      "Vetiver"
+    ]
+  },    
 ];
