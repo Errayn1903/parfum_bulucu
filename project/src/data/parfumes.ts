@@ -6437,7 +6437,7 @@ export const parfumes: Parfume[] = [
   },
    {
     "marka": "Viktor&Rolf",
-    "adi": "Spicebomb",
+    "adi": "Spicebomb Extreme",
     "cinsiyet": "Erkek",
     "idealSezon": "Kışlık",
     "kisaAciklama": "Viktor&Rolf Spicebomb - Kışlık için uygun erkek parfümü.",
