@@ -6539,6 +6539,238 @@ export const parfumes: Parfume[] = [
       "Opoponaks",
       "Meşe Yosunu"
     ]
+  },
+  {
+    "marka": "Amouage",
+    "adi": "Guidance",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Amouage Guidance - Kışlık unisex parfümü.",
+    "notalar": [
+      "Armut",
+      "Fındık",
+      "Olibanum",
+      "Osmanthus",
+      "Gül",
+      "Safran",
+      "Yasemin Sambac",
+      "Sandal Ağacı",
+      "Vanilya",
+      "Akigalawood",
+      "Ambergris",
+      "Labdanum"
+    ],
+    "ustNota": [
+      "Armut",
+      "Fındık",
+      "Olibanum"
+    ],
+    "ortaNota": [
+      "Osmanthus",
+      "Gül",
+      "Safran",
+      "Yasemin Sambac"
+    ],
+    "altNota": [
+      "Sandal Ağacı",
+      "Vanilya",
+      "Akigalawood",
+      "Ambergris",
+      "Labdanum"
+    ]
+  },
+  {
+    "marka": "Clive Christian",
+    "adi": "Blonde Amber",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Clive Christian Blonde Amber - Kışlık unisex parfümü.",
+    "notalar": [
+      "Rom",
+      "Olibanum",
+      "Acı Portakal",
+      "Kakule",
+      "Pembe Biber",
+      "Zencefil",
+      "Bergamot",
+      "Greyfurt",
+      "Kurutulmuş Meyveler",
+      "Beyaz Tütün",
+      "Sandal Ağacı",
+      "Sümbülteber",
+      "Safran",
+      "Osmanthus",
+      "Yasemin",
+      "Orris",
+      "Tonka Fasulyesi",
+      "Vanilya",
+      "Mür",
+      "Labdanum",
+      "Paçuli",
+      "Misk",
+      "Sedir",
+      "Vetiver"
+    ],
+    "ustNota": [
+      "Rom",
+      "Olibanum",
+      "Acı Portakal",
+      "Kakule",
+      "Pembe Biber",
+      "Zencefil",
+      "Bergamot",
+      "Greyfurt"
+    ],
+    "ortaNota": [
+      "Kurutulmuş Meyveler",
+      "Beyaz Tütün",
+      "Sandal Ağacı",
+      "Sümbülteber",
+      "Safran",
+      "Osmanthus",
+      "Yasemin",
+      "Orris"
+    ],
+    "altNota": [
+      "Tonka Fasulyesi",
+      "Vanilya",
+      "Mür",
+      "Labdanum",
+      "Paçuli",
+      "Misk",
+      "Sedir",
+      "Vetiver"
+    ]
+  },
+  {
+    "marka": "Jo Malone",
+    "adi": "Myrrh & Tonka",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Jo Malone Myrrh & Tonka - Kışlık unisex parfümü.",
+    "notalar": [
+      "Rom",
+      "Lavanta",
+      "Mür",
+      "Tonka Fasulyesi",
+      "Vanilya",
+      "Badem"
+    ],
+    "ustNota": [
+      "Rom",
+      "Lavanta"
+    ],
+    "ortaNota": [
+      "Mür"
+    ],
+    "altNota": [
+      "Tonka Fasulyesi",
+      "Vanilya",
+      "Badem"
+    ]
+  },
+  {
+    "marka": "Jo Malone",
+    "adi": "Velvet Rose & Oud",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Jo Malone Velvet Rose & Oud - Kışlık unisex parfümü.",
+    "notalar": [
+      "Damask Gülü",
+      "Agarwood (Ud)",
+      "Pralin",
+      "Karanfil"
+    ],
+    "ustNota": [],
+    "ortaNota": [],
+    "altNota": []
+  },
+  {
+    "marka": "Montale",
+    "adi": "Arabians Tonka",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Montale Arabians Tonka - Kışlık unisex parfümü.",
+    "notalar": [
+      "Safran",
+      "Bergamot",
+      "Agarwood (Ud)",
+      "Bulgar Gülü",
+      "Tonka Fasulyesi",
+      "Şeker Kamışı",
+      "Amber",
+      "Beyaz Misk",
+      "Meşe Yosunu"
+    ],
+    "ustNota": [
+      "Safran",
+      "Bergamot"
+    ],
+    "ortaNota": [
+      "Agarwood (Ud)",
+      "Bulgar Gülü"
+    ],
+    "altNota": [
+      "Tonka Fasulyesi",
+      "Şeker Kamışı",
+      "Amber",
+      "Beyaz Misk",
+      "Meşe Yosunu"
+    ]
+  },
+  {
+    "marka": "Paco Rabanne",
+    "adi": "Lady Million Fabulous",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Paco Rabanne Lady Million Fabulous - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Mandalina",
+      "Pembe Biber",
+      "Sümbülteber",
+      "Solar Notalar",
+      "Yasemin",
+      "Ylang-Ylang",
+      "Vanilya",
+      "Tonka Fasulyesi",
+      "Yosun"
+    ],
+    "ustNota": [
+      "Mandalina",
+      "Pembe Biber"
+    ],
+    "ortaNota": [
+      "Sümbülteber",
+      "Solar Notalar",
+      "Yasemin",
+      "Ylang-Ylang"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Tonka Fasulyesi",
+      "Yosun"
+    ]
+  },
+  {
+    "marka": "Thierry Mugler",
+    "adi": "Alien",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Thierry Mugler Alien - Kışlık kadın parfümü.",
+    "notalar": [
+      "Yasemin Sambac",
+      "Kaşmir Ağacı",
+      "Amber"
+    ],
+    "ustNota": [
+      "Yasemin Sambac"
+    ],
+    "ortaNota": [
+      "Kaşmir Ağacı"
+    ],
+    "altNota": [
+      "Amber"
+    ]
   }
 ];
 
