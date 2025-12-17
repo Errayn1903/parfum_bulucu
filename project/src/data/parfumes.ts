@@ -6771,6 +6771,101 @@ export const parfumes: Parfume[] = [
     "altNota": [
       "Amber"
     ]
+  },
+  {
+    "marka": "Dolce & Gabbana",
+    "adi": "Devotion",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Dolce & Gabbana Devotion - Kışlık kadın parfümü.",
+    "notalar": [
+      "Şekerlenmiş Limon",
+      "Panna Cotta",
+      "Portakal Çiçeği",
+      "Rom",
+      "Vanilya"
+    ],
+    "ustNota": [
+      "Şekerlenmiş Limon"
+    ],
+    "ortaNota": [
+      "Panna Cotta",
+      "Portakal Çiçeği",
+      "Rom"
+    ],
+    "altNota": [
+      "Vanilya"
+    ]
+  },
+  {
+    "marka": "Marc Antoine Barois",
+    "adi": "Tilia",
+    "cinsiyet": "Unisex",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Marc Antoine Barois Tilia - 4 Mevsim unisex parfümü.",
+    "notalar": [
+      "Ihlamur Çiçeği",
+      "Yasemin Sambac",
+      "Katırtırnağı Bitkisi",
+      "Heliotrop",
+      "Portakal Çiçeği",
+      "Vetiver",
+      "Ambrofix™",
+      "Georgywood"
+    ],
+    "ustNota": [
+      "Ihlamur Çiçeği",
+      "Yasemin Sambac",
+      "Katırtırnağı Bitkisi"
+    ],
+    "ortaNota": [
+      "Heliotrop",
+      "Portakal Çiçeği",
+      "Vetiver"
+    ],
+    "altNota": [
+      "Ambrofix™",
+      "Georgywood"
+    ]
+  },
+  {
+    "marka": "Parfums De Marly",
+    "adi": "Valaya",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Parfums De Marly Valaya - 4 Mevsim kadın parfümü.",
+    "notalar": [
+      "Aldehitler",
+      "Beyaz Şeftali",
+      "Bergamot",
+      "Mandalina",
+      "Portakal Çiçeği",
+      "İnci Çiçeği",
+      "Petalia",
+      "Vetiver",
+      "Misk",
+      "Ambroksan",
+      "Akigalawood",
+      "Vanilya"
+    ],
+    "ustNota": [
+      "Aldehitler",
+      "Beyaz Şeftali",
+      "Bergamot",
+      "Mandalina"
+    ],
+    "ortaNota": [
+      "Portakal Çiçeği",
+      "İnci Çiçeği",
+      "Petalia",
+      "Vetiver"
+    ],
+    "altNota": [
+      "Misk",
+      "Ambroksan",
+      "Akigalawood",
+      "Vanilya"
+    ]
   }
 ];
 
