@@ -6866,6 +6866,361 @@ export const parfumes: Parfume[] = [
       "Akigalawood",
       "Vanilya"
     ]
+  },
+  {
+    "marka": "Calvin Klein",
+    "adi": "Eternity For Women",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Calvin Klein Eternity For Women - 4 Mevsim kadın parfümü.",
+    "notalar": [
+      "Frezya",
+      "Adaçayı",
+      "Narenciye",
+      "Mandalina",
+      "Karanfil",
+      "Zambak",
+      "İnci Çiçeği",
+      "Nergis",
+      "Kadife Çiçeği",
+      "Menekşe",
+      "Gül",
+      "Yasemin",
+      "Misk",
+      "Heliotrop",
+      "Sandal Ağacı",
+      "Amber",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Frezya",
+      "Adaçayı",
+      "Narenciye",
+      "Mandalina"
+    ],
+    "ortaNota": [
+      "Karanfil",
+      "Zambak",
+      "İnci Çiçeği",
+      "Nergis",
+      "Kadife Çiçeği",
+      "Menekşe",
+      "Gül",
+      "Yasemin"
+    ],
+    "altNota": [
+      "Misk",
+      "Heliotrop",
+      "Sandal Ağacı",
+      "Amber",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Calvin Klein",
+    "adi": "Eternity For Men",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Calvin Klein Eternity For Men - 4 Mevsim erkek parfümü.",
+    "notalar": [
+      "Lavanta",
+      "Limon",
+      "Bergamot",
+      "Mandalina",
+      "Adaçayı",
+      "Ardıç Meyveleri",
+      "Fesleğen",
+      "Geranyum",
+      "Yasemin",
+      "Kişniş",
+      "Portakal Çiçeği",
+      "İnci Çiçeği",
+      "Zambak",
+      "Sandal Ağacı",
+      "Misk",
+      "Vetiver",
+      "Brezilya Gül Ağacı",
+      "Amber"
+    ],
+    "ustNota": [
+      "Lavanta",
+      "Limon",
+      "Bergamot",
+      "Mandalina"
+    ],
+    "ortaNota": [
+      "Adaçayı",
+      "Ardıç Meyveleri",
+      "Fesleğen",
+      "Geranyum",
+      "Yasemin",
+      "Kişniş",
+      "Portakal Çiçeği",
+      "İnci Çiçeği",
+      "Zambak"
+    ],
+    "altNota": [
+      "Sandal Ağacı",
+      "Misk",
+      "Vetiver",
+      "Brezilya Gül Ağacı",
+      "Amber"
+    ]
+  },
+  {
+    "marka": "Calvin Klein",
+    "adi": "Ck One",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Calvin Klein Ck One - Yazlık unisex parfümü.",
+    "notalar": [
+      "Limon",
+      "Yeşil Notalar",
+      "Bergamot",
+      "Mandalina",
+      "Ananas",
+      "Kakule",
+      "Papaya",
+      "İnci Çiçeği",
+      "Yasemin",
+      "Menekşe",
+      "Gül",
+      "Muskat",
+      "Frezya",
+      "İris Kökü",
+      "Misk",
+      "Sedir",
+      "Yeşil Çay",
+      "Sandal Ağacı",
+      "Meşe Yosunu",
+      "Amber"
+    ],
+    "ustNota": [
+      "Limon",
+      "Yeşil Notalar",
+      "Bergamot",
+      "Mandalina",
+      "Ananas",
+      "Kakule",
+      "Papaya"
+    ],
+    "ortaNota": [
+      "İnci Çiçeği",
+      "Yasemin",
+      "Menekşe",
+      "Gül",
+      "Muskat",
+      "Frezya",
+      "İris Kökü"
+    ],
+    "altNota": [
+      "Misk",
+      "Sedir",
+      "Yeşil Çay",
+      "Sandal Ağacı",
+      "Meşe Yosunu",
+      "Amber"
+    ]
+  },
+  {
+    "marka": "Emporio Armani",
+    "adi": "She",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Emporio Armani She - 4 Mevsim kadın parfümü.",
+    "notalar": [
+      "Narenciye",
+      "Armut",
+      "Heliotrop",
+      "Kakule",
+      "Melek Otu",
+      "Yasemin",
+      "Beyaz Misk",
+      "Badem",
+      "Sedir",
+      "Vanilya",
+      "Amber"
+    ],
+    "ustNota": [
+      "Narenciye",
+      "Armut"
+    ],
+    "ortaNota": [
+      "Heliotrop",
+      "Kakule",
+      "Melek Otu",
+      "Yasemin"
+    ],
+    "altNota": [
+      "Beyaz Misk",
+      "Badem",
+      "Sedir",
+      "Vanilya",
+      "Amber"
+    ]
+  },
+  {
+    "marka": "Kenzo",
+    "adi": "Pour Homme",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Kenzo Pour Homme - 4 Mevsim erkek parfümü.",
+    "notalar": [
+      "Deniz Notaları",
+      "Maun Ağacı",
+      "Adaçayı",
+      "Bergamot",
+      "Limon",
+      "Çam",
+      "Ardıç Meyveleri",
+      "Karanfil",
+      "Muskat",
+      "Gül",
+      "İnci Çiçeği",
+      "Kimyon",
+      "Yasemin",
+      "Şeftali",
+      "İris Kökü",
+      "Balsam Köknarı",
+      "Sandal Ağacı",
+      "Sedir",
+      "Misk",
+      "Meşe Yosunu",
+      "Vetiver",
+      "Amber",
+      "Labdanum"
+    ],
+    "ustNota": [
+      "Deniz Notaları",
+      "Maun Ağacı",
+      "Adaçayı",
+      "Bergamot",
+      "Limon"
+    ],
+    "ortaNota": [
+      "Çam",
+      "Ardıç Meyveleri",
+      "Karanfil",
+      "Muskat",
+      "Gül",
+      "İnci Çiçeği",
+      "Kimyon",
+      "Yasemin",
+      "Şeftali",
+      "İris Kökü"
+    ],
+    "altNota": [
+      "Balsam Köknarı",
+      "Sandal Ağacı",
+      "Sedir",
+      "Misk",
+      "Meşe Yosunu",
+      "Vetiver",
+      "Amber",
+      "Labdanum"
+    ]
+  },
+  {
+    "marka": "Montale",
+    "adi": "Black Aoud",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Montale Black Aoud - Kışlık erkek parfümü.",
+    "notalar": [
+      "Mandalina",
+      "Gül",
+      "Oud (Agarwood)",
+      "Paçuli",
+      "Misk",
+      "Fransız Labdanumu"
+    ],
+    "ustNota": [
+      "Mandalina",
+      "Gül",
+      "Oud (Agarwood)",
+      "Paçuli",
+      "Misk",
+      "Fransız Labdanumu"
+    ],
+    "ortaNota": [],
+    "altNota": []
+  },
+  {
+    "marka": "Montale",
+    "adi": "Vanille Absolu",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Montale Vanille Absolu - Kışlık kadın parfümü.",
+    "notalar": [
+      "Vanilya",
+      "Tarçın",
+      "Karanfil",
+      "Odunsu Notalar"
+    ],
+    "ustNota": [
+      "Vanilya",
+      "Tarçın",
+      "Karanfil",
+      "Odunsu Notalar"
+    ],
+    "ortaNota": [],
+    "altNota": []
+  },
+  {
+    "marka": "Versace",
+    "adi": "Crystal Noir",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Versace Crystal Noir - Kışlık kadın parfümü.",
+    "notalar": [
+      "Karabiber",
+      "Zencefil",
+      "Kakule",
+      "Hindistan Cevizi",
+      "Gardenya",
+      "Portakal Çiçeği",
+      "Şakayık",
+      "Sandal Ağacı",
+      "Misk",
+      "Amber"
+    ],
+    "ustNota": [
+      "Karabiber",
+      "Zencefil",
+      "Kakule"
+    ],
+    "ortaNota": [
+      "Hindistan Cevizi",
+      "Gardenya",
+      "Portakal Çiçeği",
+      "Şakayık"
+    ],
+    "altNota": [
+      "Sandal Ağacı",
+      "Misk",
+      "Amber"
+    ]
+  },
+  {
+    "marka": "Victoria's Secret",
+    "adi": "Bombshell Intense",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Victoria's Secret Bombshell Intense - Kışlık kadın parfümü.",
+    "notalar": [
+      "Kiraz",
+      "Kırmızı Şakayık",
+      "Vanilya"
+    ],
+    "ustNota": [
+      "Kiraz"
+    ],
+    "ortaNota": [
+      "Kırmızı Şakayık"
+    ],
+    "altNota": [
+      "Vanilya"
+    ]
   }
 ];
 
