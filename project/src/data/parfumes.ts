@@ -2993,8 +2993,8 @@ export const parfumes: Parfume[] = [
     "marka": "Lancome",
     "adi": "La Vie Est Belle",
     "cinsiyet": "Kadın",
-    "idealSezon": "Kışlık",
-    "kisaAciklama": "Lancome La Vie Est Belle - Kışlık için uygun kadın parfümü.",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Lancome La Vie Est Belle - 4 Mevsim kadın parfümü.",
     "notalar": [
       "Siyah Frenk Üzümü",
       "Armut",
