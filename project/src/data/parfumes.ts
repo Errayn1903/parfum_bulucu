@@ -7221,6 +7221,64 @@ export const parfumes: Parfume[] = [
     "altNota": [
       "Vanilya"
     ]
+  },
+{
+    "marka": "Giorgio Armani",
+    "adi": "Acqua Di Gio",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Giorgio Armani Acqua Di Gio - 4 Mevsim erkek parfümü.",
+    "notalar": [
+      "Misket Limonu",
+      "Limon",
+      "Bergamot",
+      "Yasemin",
+      "Portakal",
+      "Mandalina",
+      "Neroli",
+      "Deniz Notaları",
+      "Biberiye",
+      "Şeftali",
+      "Frezya",
+      "Sümbül",
+      "Menekşe",
+      "Kişniş",
+      "Gül",
+      "Muskat",
+      "Beyaz Misk",
+      "Sedir",
+      "Meşe Yosunu",
+      "Paçuli",
+      "Amber"
+    ],
+    "ustNota": [
+      "Misket Limonu",
+      "Limon",
+      "Bergamot",
+      "Yasemin",
+      "Portakal",
+      "Mandalina",
+      "Neroli"
+    ],
+    "ortaNota": [
+      "Deniz Notaları",
+      "Yasemin",
+      "Biberiye",
+      "Şeftali",
+      "Frezya",
+      "Sümbül",
+      "Menekşe",
+      "Kişniş",
+      "Gül",
+      "Muskat"
+    ],
+    "altNota": [
+      "Beyaz Misk",
+      "Sedir",
+      "Meşe Yosunu",
+      "Paçuli",
+      "Amber"
+    ]
   }
 ];
 
