@@ -7279,6 +7279,304 @@ export const parfumes: Parfume[] = [
       "Paçuli",
       "Amber"
     ]
+  },
+  {
+    "marka": "Acqua Di Parma",
+    "adi": "Blu Mediterrano FICO di AMALFI",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Acqua Di Parma Blu Mediterrano FICO di AMALFI - Yazlık unisex parfüm.",
+    "notalar": [
+      "Greyfurt",
+      "Bergamot",
+      "Ağaç Kavunu (Citron)",
+      "Limon",
+      "İncir Nektarı",
+      "Yasemin",
+      "Pembe Biber",
+      "İncir Ağacı",
+      "Sedir",
+      "Benzoin"
+    ],
+    "ustNota": [
+      "Greyfurt",
+      "Bergamot",
+      "Ağaç Kavunu (Citron)",
+      "Limon"
+    ],
+    "ortaNota": [
+      "İncir Nektarı",
+      "Yasemin",
+      "Pembe Biber"
+    ],
+    "altNota": [
+      "İncir Ağacı",
+      "Sedir",
+      "Benzoin"
+    ]
+  },
+  {
+    "marka": "Burberry",
+    "adi": "Her Elixir De Parfum",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Burberry Her Elixir De Parfum - 4 Mevsim kadın parfümü.",
+    "notalar": [
+      "Çilek",
+      "Böğürtlen",
+      "Yasemin",
+      "Vanilya",
+      "Amber",
+      "Sandal Ağacı"
+    ],
+    "ustNota": [
+      "Çilek",
+      "Böğürtlen"
+    ],
+    "ortaNota": [
+      "Yasemin"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Amber",
+      "Sandal Ağacı"
+    ]
+  },
+  {
+    "marka": "Dior",
+    "adi": "Miss Dior Blooming Bouquet",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Dior Miss Dior Blooming Bouquet - 4 Mevsim kadın parfümü.",
+    "notalar": [
+      "Sicilya Mandalinası",
+      "Pembe Şakayık",
+      "Şam Gülü",
+      "Kayısı",
+      "Şeftali",
+      "Beyaz Misk"
+    ],
+    "ustNota": [
+      "Sicilya Mandalinası"
+    ],
+    "ortaNota": [
+      "Pembe Şakayık",
+      "Şam Gülü",
+      "Kayısı",
+      "Şeftali"
+    ],
+    "altNota": [
+      "Beyaz Misk"
+    ]
+  },
+  {
+    "marka": "Ex Nihilo",
+    "adi": "Blue Talisman",
+    "cinsiyet": "Unisex",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Ex Nihilo Blue Talisman - 4 Mevsim unisex parfüm.",
+    "notalar": [
+      "Armut",
+      "Bergamot",
+      "Mandalina",
+      "Zencefil",
+      "Portakal Çiçeği",
+      "Georgywood",
+      "Misk",
+      "Ambrofix™",
+      "Akigalawood",
+      "Sedir"
+    ],
+    "ustNota": [
+      "Armut",
+      "Bergamot",
+      "Mandalina",
+      "Zencefil"
+    ],
+    "ortaNota": [
+      "Portakal Çiçeği",
+      "Georgywood"
+    ],
+    "altNota": [
+      "Misk",
+      "Ambrofix™",
+      "Akigalawood",
+      "Sedir"
+    ]
+  },
+  {
+    "marka": "Hermes",
+    "adi": "H24",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Hermes H24 - 4 Mevsim erkek parfümü.",
+    "notalar": [
+      "Adaçayı",
+      "Nergis",
+      "Gül Ağacı",
+      "Sclarene"
+    ],
+    "ustNota": [
+      "Adaçayı",
+      "Nergis",
+      "Gül Ağacı",
+      "Sclarene"
+    ],
+    "ortaNota": [],
+    "altNota": []
+  },
+  {
+    "marka": "Hugo Boss",
+    "adi": "Boss Bottled Absolu",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Hugo Boss Boss Bottled Absolu - Kışlık erkek parfümü.",
+    "notalar": [
+      "Tütsü",
+      "Deri",
+      "Paçuli",
+      "Mür",
+      "Sedir Ağacı",
+      "Davana"
+    ],
+    "ustNota": [
+      "Tütsü",
+      "Deri"
+    ],
+    "ortaNota": [
+      "Paçuli",
+      "Mür"
+    ],
+    "altNota": [
+      "Sedir Ağacı",
+      "Davana"
+    ]
+  },
+  {
+    "marka": "Jean Paul Gaultier",
+    "adi": "Le Male",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Jean Paul Gaultier Le Male - 4 Mevsim erkek parfümü.",
+    "notalar": [
+      "Lavanta",
+      "Nane",
+      "Kakule",
+      "Bergamot",
+      "Pelin Otu (Artemisia)",
+      "Tarçın",
+      "Portakal Çiçeği",
+      "Kimyon",
+      "Vanilya",
+      "Tonka Fasulyesi",
+      "Amber",
+      "Sandal Ağacı",
+      "Sedir"
+    ],
+    "ustNota": [
+      "Lavanta",
+      "Nane",
+      "Kakule",
+      "Bergamot",
+      "Pelin Otu (Artemisia)"
+    ],
+    "ortaNota": [
+      "Tarçın",
+      "Portakal Çiçeği",
+      "Kimyon"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Tonka Fasulyesi",
+      "Amber",
+      "Sandal Ağacı",
+      "Sedir"
+    ]
+  },
+  {
+    "marka": "Jo Malone",
+    "adi": "Wood Sage & Sea Salt",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Jo Malone Wood Sage & Sea Salt - Yazlık unisex parfüm.",
+    "notalar": [
+      "Deniz Tuzu",
+      "Adaçayı",
+      "Greyfurt",
+      "Amber Hatmisi",
+      "Deniz Yosunu"
+    ],
+    "ustNota": [
+      "Deniz Tuzu",
+      "Adaçayı",
+      "Greyfurt",
+      "Amber Hatmisi",
+      "Deniz Yosunu"
+    ],
+    "ortaNota": [],
+    "altNota": []
+  },
+  {
+    "marka": "Lattafa",
+    "adi": "Yara",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Lattafa Yara - 4 Mevsim kadın parfümü.",
+    "notalar": [
+      "Orkide",
+      "Heliotrop",
+      "Mandalina",
+      "Gurme Akoru",
+      "Tropikal Meyveler",
+      "Vanilya",
+      "Misk",
+      "Sandal Ağacı"
+    ],
+    "ustNota": [
+      "Orkide",
+      "Heliotrop",
+      "Mandalina"
+    ],
+    "ortaNota": [
+      "Gurme Akoru",
+      "Tropikal Meyveler"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Misk",
+      "Sandal Ağacı"
+    ]
+  },
+  {
+    "marka": "Paco Rabanne",
+    "adi": "Olympea",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Paco Rabanne Olympea - 4 Mevsim kadın parfümü.",
+    "notalar": [
+      "Su Yasemini",
+      "Yeşil Mandalina",
+      "Zencefil Çiçeği",
+      "Vanilya",
+      "Tuz",
+      "Kaşmir Ağacı",
+      "Ambergris",
+      "Sandal Ağacı"
+    ],
+    "ustNota": [
+      "Su Yasemini",
+      "Yeşil Mandalina",
+      "Zencefil Çiçeği"
+    ],
+    "ortaNota": [
+      "Vanilya",
+      "Tuz"
+    ],
+    "altNota": [
+      "Kaşmir Ağacı",
+      "Ambergris",
+      "Sandal Ağacı"
+    ]
   }
 ];
 
