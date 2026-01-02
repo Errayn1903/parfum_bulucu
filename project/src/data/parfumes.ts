@@ -7577,6 +7577,37 @@ export const parfumes: Parfume[] = [
       "Ambergris",
       "Sandal Ağacı"
     ]
+  },
+  {
+    "marka": "Orto Parisi",
+    "adi": "Megamare",
+    "cinsiyet": "Unisex",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Orto Parisi Megamare - 4 Mevsim unisex parfüm.",
+    "notalar": [
+      "Bergamot",
+      "Limon",
+      "Deniz Yosunu",
+      "Calone",
+      "Hedione",
+      "Misk",
+      "Ambroksan",
+      "Sedir"
+    ],
+    "ustNota": [
+      "Bergamot",
+      "Limon"
+    ],
+    "ortaNota": [
+      "Deniz Yosunu",
+      "Calone",
+      "Hedione"
+    ],
+    "altNota": [
+      "Misk",
+      "Ambroksan",
+      "Sedir"
+    ]
   }
 ];
 
