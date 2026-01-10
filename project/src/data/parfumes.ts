@@ -7608,6 +7608,317 @@ export const parfumes: Parfume[] = [
       "Ambroksan",
       "Sedir"
     ]
+  },
+  {
+    "marka": "Byredo",
+    "adi": "Bal d'Afrique",
+    "cinsiyet": "Unisex",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Byredo Bal d'Afrique - 4 Mevsim unisex parfüm.",
+    "notalar": [
+      "Bergamot",
+      "Afrika Kadife Çiçeği (Marigold)",
+      "Buchu (Agathosma)",
+      "Menekşe",
+      "Siklamen",
+      "Vetiver",
+      "Sedir"
+    ],
+    "ustNota": [
+      "Bergamot",
+      "Afrika Kadife Çiçeği (Marigold)",
+      "Buchu (Agathosma)"
+    ],
+    "ortaNota": [
+      "Menekşe",
+      "Siklamen"
+    ],
+    "altNota": [
+      "Vetiver",
+      "Sedir"
+    ]
+  },
+  {
+    "marka": "Hugo Boss",
+    "adi": "Boss Bottled",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Hugo Boss Boss Bottled - 4 Mevsim erkek parfüm.",
+    "notalar": [
+      "Elma",
+      "Erik",
+      "Bergamot",
+      "Limon",
+      "Meşe Yosunu",
+      "Geranyum",
+      "Tarçın",
+      "Maun Ağacı",
+      "Karanfil",
+      "Vanilya",
+      "Sandal Ağacı",
+      "Sedir",
+      "Vetiver",
+      "Zeytin Ağacı"
+    ],
+    "ustNota": [
+      "Elma",
+      "Erik",
+      "Bergamot",
+      "Limon",
+      "Meşe Yosunu",
+      "Geranyum"
+    ],
+    "ortaNota": [
+      "Tarçın",
+      "Maun Ağacı",
+      "Karanfil"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Sandal Ağacı",
+      "Sedir",
+      "Vetiver",
+      "Zeytin Ağacı"
+    ]
+  },
+  {
+    "marka": "Jean Paul Gaultier",
+    "adi": "La Belle Le Parfum",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Jean Paul Gaultier La Belle Le Parfum - Kışlık kadın parfüm.",
+    "notalar": [
+      "Armut",
+      "Tonka Fasulyesi",
+      "Yasemin",
+      "Vanilya"
+    ],
+    "ustNota": [
+      "Armut"
+    ],
+    "ortaNota": [
+      "Tonka Fasulyesi",
+      "Yasemin"
+    ],
+    "altNota": [
+      "Vanilya"
+    ]
+  },
+  {
+    "marka": "Mont Blanc",
+    "adi": "Legend",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Mont Blanc Legend - 4 Mevsim erkek parfüm.",
+    "notalar": [
+      "Lavanta",
+      "Ananas",
+      "Bergamot",
+      "Limon Otu",
+      "Kırmızı Elma",
+      "Kurutulmuş Meyveler",
+      "Meşe Yosunu",
+      "Geranyum",
+      "Kumarin",
+      "Gül",
+      "Tonka Fasulyesi",
+      "Sandal Ağacı"
+    ],
+    "ustNota": [
+      "Lavanta",
+      "Ananas",
+      "Bergamot",
+      "Limon Otu"
+    ],
+    "ortaNota": [
+      "Kırmızı Elma",
+      "Kurutulmuş Meyveler",
+      "Meşe Yosunu",
+      "Geranyum",
+      "Kumarin",
+      "Gül"
+    ],
+    "altNota": [
+      "Tonka Fasulyesi",
+      "Sandal Ağacı"
+    ]
+  },
+  {
+    "marka": "Mont Blanc",
+    "adi": "Explorer",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Mont Blanc Explorer - 4 Mevsim erkek parfüm.",
+    "notalar": [
+      "Bergamot",
+      "Pembe Biber",
+      "Adaçayı",
+      "Haiti Vetiveri",
+      "Deri",
+      "Ambroksan",
+      "Akigalawood",
+      "Endonezya Paçuli Yaprağı",
+      "Kakao Kabuğu"
+    ],
+    "ustNota": [
+      "Bergamot",
+      "Pembe Biber",
+      "Adaçayı"
+    ],
+    "ortaNota": [
+      "Haiti Vetiveri",
+      "Deri"
+    ],
+    "altNota": [
+      "Ambroksan",
+      "Akigalawood",
+      "Endonezya Paçuli Yaprağı",
+      "Kakao Kabuğu"
+    ]
+  },
+  {
+    "marka": "Maison Martin Margiela",
+    "adi": "Replica Jazz Club",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Maison Martin Margiela Replica Jazz Club - Kışlık erkek parfüm.",
+    "notalar": [
+      "Pembe Biber",
+      "Neroli",
+      "Limon",
+      "Rom",
+      "Java Vetiver Yağı",
+      "Adaçayı",
+      "Tütün Yaprağı",
+      "Vanilya Çubuğu",
+      "Styraks"
+    ],
+    "ustNota": [
+      "Pembe Biber",
+      "Neroli",
+      "Limon"
+    ],
+    "ortaNota": [
+      "Rom",
+      "Java Vetiver Yağı",
+      "Adaçayı"
+    ],
+    "altNota": [
+      "Tütün Yaprağı",
+      "Vanilya Çubuğu",
+      "Styraks"
+    ]
+  },
+  {
+    "marka": "Parfums De Marly",
+    "adi": "Sedley",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Parfums De Marly Sedley - Yazlık unisex parfüm.",
+    "notalar": [
+      "Limon",
+      "Nane",
+      "Bergamot",
+      "Greyfurt",
+      "Mandalina",
+      "Lavanta",
+      "Biberiye",
+      "Geranyum",
+      "Olibanum",
+      "Ambroksan",
+      "Sandal Ağacı",
+      "Sedir",
+      "Kaşmir Ağacı",
+      "Vetiver",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Limon",
+      "Nane",
+      "Bergamot",
+      "Greyfurt",
+      "Mandalina"
+    ],
+    "ortaNota": [
+      "Lavanta",
+      "Biberiye",
+      "Geranyum",
+      "Olibanum"
+    ],
+    "altNota": [
+      "Ambroksan",
+      "Sandal Ağacı",
+      "Sedir",
+      "Kaşmir Ağacı",
+      "Vetiver",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Prada",
+    "adi": "L'Homme",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Prada L'Homme - 4 Mevsim erkek parfüm.",
+    "notalar": [
+      "Neroli",
+      "Karabiber",
+      "Kakule",
+      "Havuç Tohumu",
+      "İris",
+      "Menekşe",
+      "Geranyum",
+      "Mate",
+      "Amber",
+      "Sedir",
+      "Sandal Ağacı",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Neroli",
+      "Karabiber",
+      "Kakule",
+      "Havuç Tohumu"
+    ],
+    "ortaNota": [
+      "İris",
+      "Menekşe",
+      "Geranyum",
+      "Mate"
+    ],
+    "altNota": [
+      "Amber",
+      "Sedir",
+      "Sandal Ağacı",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Prada",
+    "adi": "L'Homme Intense",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Prada L'Homme Intense - Kışlık erkek parfüm.",
+    "notalar": [
+      "İris",
+      "Amber",
+      "Paçuli",
+      "Tonka Fasulyesi",
+      "Deri",
+      "Sandal Ağacı"
+    ],
+    "ustNota": [
+      "İris"
+    ],
+    "ortaNota": [
+      "Amber",
+      "Paçuli"
+    ],
+    "altNota": [
+      "Tonka Fasulyesi",
+      "Deri",
+      "Sandal Ağacı"
+    ]
   }
 ];
 
