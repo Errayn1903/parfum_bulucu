@@ -7919,6 +7919,502 @@ export const parfumes: Parfume[] = [
       "Deri",
       "Sandal Ağacı"
     ]
+  },
+ {
+    "marka": "Carolina Herrera",
+    "adi": "Good Girl Blush Elixir",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Carolina Herrera Good Girl Blush Elixir - 4 Mevsim kadın parfüm.",
+    "notalar": [
+      "Bergamot",
+      "Mandalina",
+      "Ylang Ylang",
+      "Gül",
+      "Vanilya",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Bergamot",
+      "Mandalina"
+    ],
+    "ortaNota": [
+      "Ylang Ylang",
+      "Gül"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Chloe",
+    "adi": "Nomade",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Chloe Nomade - 4 Mevsim kadın parfüm.",
+    "notalar": [
+      "Mirabelle Eriği",
+      "Bergamot",
+      "Limon",
+      "Portakal",
+      "Frezya",
+      "Şeftali",
+      "Yasemin",
+      "Gül",
+      "Meşe Yosunu",
+      "Paçuli",
+      "Amberwood",
+      "Beyaz Misk",
+      "Sandal Ağacı"
+    ],
+    "ustNota": [
+      "Mirabelle Eriği",
+      "Bergamot",
+      "Limon",
+      "Portakal"
+    ],
+    "ortaNota": [
+      "Frezya",
+      "Şeftali",
+      "Yasemin",
+      "Gül"
+    ],
+    "altNota": [
+      "Meşe Yosunu",
+      "Paçuli",
+      "Amberwood",
+      "Beyaz Misk",
+      "Sandal Ağacı"
+    ]
+  },
+  {
+    "marka": "Diesel",
+    "adi": "Only The Brave",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Diesel Only The Brave - 4 Mevsim erkek parfüm.",
+    "notalar": [
+      "Amalfi Limonu",
+      "Mandalina",
+      "Menekşe",
+      "Virginia Sediri",
+      "Kişniş",
+      "Amber",
+      "Deri",
+      "Benzoe",
+      "Fransız Labdanumu",
+      "Styraks"
+    ],
+    "ustNota": [
+      "Amalfi Limonu",
+      "Mandalina"
+    ],
+    "ortaNota": [
+      "Menekşe",
+      "Virginia Sediri",
+      "Kişniş"
+    ],
+    "altNota": [
+      "Amber",
+      "Deri",
+      "Benzoe",
+      "Fransız Labdanumu",
+      "Styraks"
+    ]
+  },
+  {
+    "marka": "Diesel",
+    "adi": "Fuel For Life",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Diesel Fuel For Life - 4 Mevsim erkek parfüm.",
+    "notalar": [
+      "Anason",
+      "Greyfurt",
+      "Ahududu",
+      "Lavanta",
+      "Odunsu Notalar",
+      "Heliotrop"
+    ],
+    "ustNota": [
+      "Anason",
+      "Greyfurt"
+    ],
+    "ortaNota": [
+      "Ahududu",
+      "Lavanta"
+    ],
+    "altNota": [
+      "Odunsu Notalar",
+      "Heliotrop"
+    ]
+  },
+  {
+    "marka": "Frederic Malle",
+    "adi": "Carnal Flower",
+    "cinsiyet": "Unisex",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Frederic Malle Carnal Flower - 4 Mevsim unisex parfüm.",
+    "notalar": [
+      "Okaliptüs",
+      "Kavun",
+      "Bergamot",
+      "Galbanum",
+      "Hindistan Cevizi",
+      "Sümbülteber",
+      "Yasemin",
+      "Ylang-Ylang",
+      "Portakal Çiçeği",
+      "Beyaz Misk",
+      "Hayvansı Notalar",
+      "Amber"
+    ],
+    "ustNota": [
+      "Okaliptüs",
+      "Kavun",
+      "Bergamot",
+      "Galbanum"
+    ],
+    "ortaNota": [
+      "Hindistan Cevizi",
+      "Sümbülteber",
+      "Yasemin",
+      "Ylang-Ylang",
+      "Portakal Çiçeği"
+    ],
+    "altNota": [
+      "Beyaz Misk",
+      "Hayvansı Notalar",
+      "Amber"
+    ]
+  },
+  {
+    "marka": "Givenchy",
+    "adi": "L'Interdit",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Givenchy L'Interdit - Kışlık kadın parfüm.",
+    "notalar": [
+      "Armut",
+      "Bergamot",
+      "Sümbülteber",
+      "Portakal Çiçeği",
+      "Sambac Yasemini",
+      "Paçuli",
+      "Vanilya",
+      "Ambroksan",
+      "Vetiver"
+    ],
+    "ustNota": [
+      "Armut",
+      "Bergamot"
+    ],
+    "ortaNota": [
+      "Sümbülteber",
+      "Portakal Çiçeği",
+      "Sambac Yasemini"
+    ],
+    "altNota": [
+      "Paçuli",
+      "Vanilya",
+      "Ambroksan",
+      "Vetiver"
+    ]
+  },
+  {
+    "marka": "Hugo Boss",
+    "adi": "Boss Bottled Elixir",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Hugo Boss Boss Bottled Elixir - Kışlık erkek parfüm.",
+    "notalar": [
+      "Günnük",
+      "Kakule",
+      "Paçuli",
+      "Vetiver",
+      "Labdanum",
+      "Sedir"
+    ],
+    "ustNota": [
+      "Günnük",
+      "Kakule"
+    ],
+    "ortaNota": [
+      "Paçuli",
+      "Vetiver"
+    ],
+    "altNota": [
+      "Labdanum",
+      "Sedir"
+    ]
+  },
+  {
+    "marka": "Issey Miyake",
+    "adi": "L'Eau d'Issey Pour Homme",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Issey Miyake L'Eau d'Issey Pour Homme - Yazlık erkek parfüm.",
+    "notalar": [
+      "Yuzu",
+      "Limon",
+      "Bergamot",
+      "Limon Otu (Lemon Verbena)",
+      "Mandalina",
+      "Selvi",
+      "Calone",
+      "Kişniş",
+      "Adaçayı",
+      "Tarhun Otu",
+      "Mavi Lotus",
+      "Muskat",
+      "İnci Çiçeği",
+      "Bourbon Geranyumu",
+      "Safran",
+      "Seylan Tarçını",
+      "Rezeda",
+      "Tahitian Vetiver",
+      "Misk",
+      "Sedir",
+      "Sandal Ağacı",
+      "Amber",
+      "Tütün"
+    ],
+    "ustNota": [
+      "Yuzu",
+      "Limon",
+      "Bergamot",
+      "Limon Otu (Lemon Verbena)",
+      "Mandalina",
+      "Selvi",
+      "Calone",
+      "Kişniş",
+      "Adaçayı",
+      "Tarhun Otu"
+    ],
+    "ortaNota": [
+      "Mavi Lotus",
+      "Muskat",
+      "İnci Çiçeği",
+      "Bourbon Geranyumu",
+      "Safran",
+      "Seylan Tarçını",
+      "Rezeda"
+    ],
+    "altNota": [
+      "Tahitian Vetiver",
+      "Misk",
+      "Sedir",
+      "Sandal Ağacı",
+      "Amber",
+      "Tütün"
+    ]
+  },
+  {
+    "marka": "Jo Malone",
+    "adi": "Red Roses",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Jo Malone Red Roses - 4 Mevsim kadın parfüm.",
+    "notalar": [
+      "Limon",
+      "Nane",
+      "Bergamot",
+      "Greyfurt",
+      "Mandalina",
+      "Bulgar Gülü",
+      "Menekşe Yaprağı",
+      "Balmumu"
+    ],
+    "ustNota": [
+      "Limon",
+      "Nane",
+      "Bergamot",
+      "Greyfurt",
+      "Mandalina"
+    ],
+    "ortaNota": [
+      "Bulgar Gülü",
+      "Menekşe Yaprağı"
+    ],
+    "altNota": [
+      "Balmumu"
+    ]
+  },
+  {
+    "marka": "Parfums De Marly",
+    "adi": "Delina Exclusif",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Parfums De Marly Delina Exclusif - 4 Mevsim kadın parfüm.",
+    "notalar": [
+      "Liçi",
+      "Armut",
+      "Bergamot",
+      "Pembe Biber",
+      "Greyfurt",
+      "Türk Gülü",
+      "Oud (Agarwood)",
+      "Tütsü",
+      "Vanilya",
+      "Amber",
+      "Odunsu Notalar",
+      "Misk",
+      "Vetiver",
+      "Evernyl"
+    ],
+    "ustNota": [
+      "Liçi",
+      "Armut",
+      "Bergamot",
+      "Pembe Biber",
+      "Greyfurt"
+    ],
+    "ortaNota": [
+      "Türk Gülü",
+      "Oud (Agarwood)",
+      "Tütsü"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Amber",
+      "Odunsu Notalar",
+      "Misk",
+      "Vetiver",
+      "Evernyl"
+    ]
+  },
+  {
+    "marka": "Parfums De Marly",
+    "adi": "Herod",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Parfums De Marly Herod - 4 Mevsim erkek parfüm.",
+    "notalar": [
+      "Tarçın",
+      "Pepperwood",
+      "Tütün Yaprağı",
+      "Tütsü",
+      "Osmanthus",
+      "Labdanum",
+      "Vanilya",
+      "Iso E Super",
+      "Sedir",
+      "Misk",
+      "Cypriol Yağı",
+      "Vetiver",
+      "Amber"
+    ],
+    "ustNota": [
+      "Tarçın",
+      "Pepperwood"
+    ],
+    "ortaNota": [
+      "Tütün Yaprağı",
+      "Tütsü",
+      "Osmanthus",
+      "Labdanum"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Iso E Super",
+      "Sedir",
+      "Misk",
+      "Cypriol Yağı",
+      "Vetiver",
+      "Amber"
+    ]
+  },
+  {
+    "marka": "Roberto Cavalli",
+    "adi": "Just Cavalli",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Roberto Cavalli Just Cavalli - 4 Mevsim kadın parfüm.",
+    "notalar": [
+      "Neroli",
+      "Tahitian Tiare Çiçeği",
+      "Gül Ağacı"
+    ],
+    "ustNota": [
+      "Neroli"
+    ],
+    "ortaNota": [
+      "Tahitian Tiare Çiçeği"
+    ],
+    "altNota": [
+      "Gül Ağacı"
+    ]
+  },
+  {
+    "marka": "Valentino",
+    "adi": "Born In Roma Donna",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Valentino Born In Roma Donna - 4 Mevsim kadın parfüm.",
+    "notalar": [
+      "Siyah Frenk Üzümü",
+      "Pembe Biber",
+      "Bergamot",
+      "Yasemin",
+      "Sambac Yasemini",
+      "Yasemin Çayı",
+      "Bourbon Vanilyası",
+      "Kaşmir Ağacı",
+      "Guaiac Ağacı"
+    ],
+    "ustNota": [
+      "Siyah Frenk Üzümü",
+      "Pembe Biber",
+      "Bergamot"
+    ],
+    "ortaNota": [
+      "Yasemin",
+      "Sambac Yasemini",
+      "Yasemin Çayı"
+    ],
+    "altNota": [
+      "Bourbon Vanilyası",
+      "Kaşmir Ağacı",
+      "Guaiac Ağacı"
+    ]
+  },
+  {
+    "marka": "Viktor&Rolf",
+    "adi": "Flowerbomb",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Viktor&Rolf Flowerbomb - 4 Mevsim kadın parfüm.",
+    "notalar": [
+      "Çay",
+      "Bergamot",
+      "Osmanthus",
+      "Orkide",
+      "Yasemin",
+      "Gül",
+      "Frezya",
+      "Afrika Portakal Çiçeği",
+      "Paçuli",
+      "Misk",
+      "Vanilya"
+    ],
+    "ustNota": [
+      "Çay",
+      "Bergamot",
+      "Osmanthus"
+    ],
+    "ortaNota": [
+      "Orkide",
+      "Yasemin",
+      "Gül",
+      "Frezya",
+      "Afrika Portakal Çiçeği"
+    ],
+    "altNota": [
+      "Paçuli",
+      "Misk",
+      "Vanilya"
+    ]
   }
 ];
 
