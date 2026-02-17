@@ -8415,6 +8415,1879 @@ export const parfumes: Parfume[] = [
       "Misk",
       "Vanilya"
     ]
+  },
+  {
+    "marka": "Chanel",
+    "adi": "Chance Eau Tendre",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Chanel Chance Eau Tendre - Yazlık için uygun kadın parfümü.",
+    "notalar": [
+      "Ayva",
+      "Greyfurt",
+      "Sümbül",
+      "Yasemin",
+      "Misk",
+      "İris",
+      "Virginia Sediri",
+      "Amber"
+    ],
+    "ustNota": [
+      "Ayva",
+      "Greyfurt"
+    ],
+    "ortaNota": [
+      "Sümbül",
+      "Yasemin"
+    ],
+    "altNota": [
+      "Misk",
+      "İris",
+      "Virginia Sediri",
+      "Amber"
+    ]
+  },
+  {
+    "marka": "Dior",
+    "adi": "Miss Dior 2021",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Dior Miss Dior 2021 - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "İris",
+      "Şakayık",
+      "Müge Çiçeği",
+      "Gül",
+      "Kayısı",
+      "Şeftali",
+      "Vanilya",
+      "Misk",
+      "Tonka Fasulyesi",
+      "Sandal Ağacı",
+      "Benzoin"
+    ],
+    "ustNota": [
+      "İris",
+      "Şakayık",
+      "Müge Çiçeği"
+    ],
+    "ortaNota": [
+      "Gül",
+      "Kayısı",
+      "Şeftali"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Misk",
+      "Tonka Fasulyesi",
+      "Sandal Ağacı",
+      "Benzoin"
+    ]
+  },
+  {
+    "marka": "Chloe",
+    "adi": "Love Story",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Chloe Love Story - Yazlık için uygun kadın parfümü.",
+    "notalar": [
+      "Neroli",
+      "Armut",
+      "Bergamot",
+      "Greyfurt",
+      "Limon",
+      "Portakal Çiçeği",
+      "Stephanotis",
+      "Gül",
+      "Şeftali",
+      "Siyah Frenk Üzümü",
+      "Misk",
+      "Sedir Ağacı",
+      "Kaşmir Ağacı",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Neroli",
+      "Armut",
+      "Bergamot",
+      "Greyfurt",
+      "Limon"
+    ],
+    "ortaNota": [
+      "Portakal Çiçeği",
+      "Stephanotis",
+      "Gül",
+      "Şeftali",
+      "Siyah Frenk Üzümü"
+    ],
+    "altNota": [
+      "Misk",
+      "Sedir Ağacı",
+      "Kaşmir Ağacı",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Hermes",
+    "adi": "Un Jardin Sur Le Nil",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Hermes Un Jardin Sur Le Nil - Yazlık için uygun unisex parfüm.",
+    "notalar": [
+      "Greyfurt",
+      "Yeşil Mango",
+      "Domates",
+      "Havuç",
+      "Lotus",
+      "Kamış",
+      "Portakal",
+      "Sümbül",
+      "Şakayık",
+      "Misk",
+      "İris",
+      "Tütsü",
+      "Labdanum",
+      "Tarçın"
+    ],
+    "ustNota": [
+      "Greyfurt",
+      "Yeşil Mango",
+      "Domates",
+      "Havuç"
+    ],
+    "ortaNota": [
+      "Lotus",
+      "Kamış",
+      "Portakal",
+      "Sümbül",
+      "Şakayık"
+    ],
+    "altNota": [
+      "Misk",
+      "İris",
+      "Tütsü",
+      "Labdanum",
+      "Tarçın"
+    ]
+  },
+  {
+    "marka": "Creed",
+    "adi": "Silver Mountain Water",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Creed Silver Mountain Water - Yazlık için uygun unisex parfüm.",
+    "notalar": [
+      "Bergamot",
+      "Mandalina",
+      "Yeşil Çay",
+      "Siyah Frenk Üzümü",
+      "Misk",
+      "Sandal Ağacı",
+      "Petitgrain",
+      "Galbanum"
+    ],
+    "ustNota": [
+      "Bergamot",
+      "Mandalina"
+    ],
+    "ortaNota": [
+      "Yeşil Çay",
+      "Siyah Frenk Üzümü"
+    ],
+    "altNota": [
+      "Misk",
+      "Sandal Ağacı",
+      "Petitgrain",
+      "Galbanum"
+    ]
+  },
+  {
+    "marka": "Xerjoff",
+    "adi": "40 Knots",
+    "cinsiyet": "Unisex",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Xerjoff 40 Knots - 4 Mevsim için uygun unisex parfüm.",
+    "notalar": [
+      "Deniz Notaları",
+      "Tuz",
+      "Yeşil Notalar",
+      "Odunsu Notalar",
+      "Sedir Ağacı"
+    ],
+    "ustNota": [
+      "Deniz Notaları",
+      "Tuz",
+      "Yeşil Notalar",
+      "Odunsu Notalar",
+      "Sedir Ağacı"
+    ],
+    "ortaNota": [],
+    "altNota": []
+  },
+  {
+    "marka": "Valentino",
+    "adi": "Valentino Donna",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Valentino Valentino Donna - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Bergamot",
+      "Greyfurt",
+      "İris",
+      "Bulgar Gülü",
+      "Pralin",
+      "Mahonya",
+      "Deri",
+      "Vanilya",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Bergamot",
+      "Greyfurt"
+    ],
+    "ortaNota": [
+      "İris",
+      "Bulgar Gülü",
+      "Pralin",
+      "Mahonya"
+    ],
+    "altNota": [
+      "Deri",
+      "Vanilya",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Prada",
+    "adi": "Paradoxe Intense",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Prada Paradoxe Intense - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Armut",
+      "Neroli",
+      "Bergamot",
+      "Yasemin",
+      "Neroli Esansı",
+      "Yosun",
+      "Bourbon Vanilya",
+      "Vanilya",
+      "Amber",
+      "Ambrofix™",
+      "Serenolide"
+    ],
+    "ustNota": [
+      "Armut",
+      "Neroli",
+      "Bergamot"
+    ],
+    "ortaNota": [
+      "Yasemin",
+      "Neroli Esansı",
+      "Yosun"
+    ],
+    "altNota": [
+      "Bourbon Vanilya",
+      "Vanilya",
+      "Amber",
+      "Ambrofix™",
+      "Serenolide"
+    ]
+  },
+  {
+    "marka": "Amouage",
+    "adi": "Guidance 46",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Amouage Guidance 46 - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Gül Suyu",
+      "Armut",
+      "Fındık",
+      "Acı Badem",
+      "Günlük (Frankincense)",
+      "Pembe Biber",
+      "Gül",
+      "Osmanthus",
+      "Safran",
+      "Yasemin Sambac",
+      "Sandal Ağacı",
+      "Akigalawood",
+      "Vanilya",
+      "Ambrette",
+      "Georgywood",
+      "Ambergris",
+      "Labdanum",
+      "Cypriol"
+    ],
+    "ustNota": [
+      "Gül Suyu",
+      "Armut",
+      "Fındık",
+      "Acı Badem",
+      "Günlük (Frankincense)",
+      "Pembe Biber"
+    ],
+    "ortaNota": [
+      "Gül",
+      "Osmanthus",
+      "Safran",
+      "Yasemin Sambac"
+    ],
+    "altNota": [
+      "Sandal Ağacı",
+      "Akigalawood",
+      "Vanilya",
+      "Ambrette",
+      "Georgywood",
+      "Ambergris",
+      "Labdanum",
+      "Cypriol"
+    ]
+  },
+  {
+    "marka": "Versace",
+    "adi": "Eros Energy",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Versace Eros Energy - Yazlık için uygun erkek parfümü.",
+    "notalar": [
+      "Limon",
+      "Lime",
+      "Greyfurt",
+      "Kan Portakalı",
+      "Sicilya Bergamotu",
+      "Mandalina",
+      "Pembe Biber",
+      "Beyaz Amber",
+      "Siyah Frenk Üzümü",
+      "Misk",
+      "Meşe Yosunu",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Limon",
+      "Lime",
+      "Greyfurt",
+      "Kan Portakalı",
+      "Sicilya Bergamotu",
+      "Mandalina"
+    ],
+    "ortaNota": [
+      "Pembe Biber",
+      "Beyaz Amber",
+      "Siyah Frenk Üzümü"
+    ],
+    "altNota": [
+      "Misk",
+      "Meşe Yosunu",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Hermes",
+    "adi": "Elixir des Merveilles",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Hermes Elixir des Merveilles - Kışlık için uygun kadın parfümü.",
+    "notalar": [
+      "Portakal Kabuğu",
+      "Siam Reçinesi",
+      "Amber",
+      "Peru Balsamı",
+      "Karamel",
+      "Sedir Ağacı",
+      "Paçuli",
+      "Meşe",
+      "Tütsü",
+      "Sandal Ağacı",
+      "Tonka Fasulyesi",
+      "Vanilya Şekeri"
+    ],
+    "ustNota": [
+      "Portakal Kabuğu",
+      "Siam Reçinesi",
+      "Amber",
+      "Peru Balsamı",
+      "Karamel",
+      "Sedir Ağacı",
+      "Paçuli",
+      "Meşe",
+      "Tütsü",
+      "Sandal Ağacı",
+      "Tonka Fasulyesi",
+      "Vanilya Şekeri"
+    ],
+    "ortaNota": [],
+    "altNota": []
+  },
+  {
+    "marka": "Montale",
+    "adi": "Chocolate Greedy",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Montale Chocolate Greedy - Kışlık için uygun unisex parfüm.",
+    "notalar": [
+      "Acı Portakal",
+      "Kuru Meyveler",
+      "Kahve",
+      "Kakao",
+      "Vanilya",
+      "Tonka Fasulyesi"
+    ],
+    "ustNota": [
+      "Acı Portakal",
+      "Kuru Meyveler",
+      "Kahve",
+      "Kakao",
+      "Vanilya",
+      "Tonka Fasulyesi"
+    ],
+    "ortaNota": [],
+    "altNota": []
+  },
+  {
+    "marka": "Emporio Armani",
+    "adi": "Stronger With You Amber",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Emporio Armani Stronger With You Amber - Kışlık için uygun unisex parfüm.",
+    "notalar": [
+      "Lavanta",
+      "Amber",
+      "Madagaskar Vanilyası"
+    ],
+    "ustNota": [
+      "Lavanta",
+      "Amber",
+      "Madagaskar Vanilyası"
+    ],
+    "ortaNota": [],
+    "altNota": []
+  },
+  {
+    "marka": "Hugo Boss",
+    "adi": "Boss The Scent Elixir For Him",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Hugo Boss Boss The Scent Elixir For Him - Kışlık için uygun erkek parfümü.",
+    "notalar": [
+      "Kırmızı Biber",
+      "Lavanta",
+      "Sandal Ağacı"
+    ],
+    "ustNota": [
+      "Kırmızı Biber"
+    ],
+    "ortaNota": [
+      "Lavanta"
+    ],
+    "altNota": [
+      "Sandal Ağacı"
+    ]
+  },
+  {
+    "marka": "Givenchy",
+    "adi": "Gentleman Eau de Parfum Reserve Privee",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Givenchy Gentleman Eau de Parfum Reserve Privee - Kışlık için uygun erkek parfümü.",
+    "notalar": [
+      "Bergamot",
+      "İris",
+      "Kestane",
+      "Viski",
+      "Odunsu Notalar",
+      "Amber"
+    ],
+    "ustNota": [
+      "Bergamot"
+    ],
+    "ortaNota": [
+      "İris",
+      "Kestane"
+    ],
+    "altNota": [
+      "Viski",
+      "Odunsu Notalar",
+      "Amber"
+    ]
+  },
+  {
+    "marka": "Bvlgari",
+    "adi": "Jasmin Noir",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Bvlgari Jasmin Noir - Kışlık için uygun kadın parfümü.",
+    "notalar": [
+      "Gardenya",
+      "Yeşil Notalar",
+      "Yasemin Sambac",
+      "Badem",
+      "Tonka Fasulyesi",
+      "Meyan Kökü",
+      "Değerli Odunlar",
+      "Misk",
+      "Amber",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Gardenya",
+      "Yeşil Notalar"
+    ],
+    "ortaNota": [
+      "Yasemin Sambac",
+      "Badem"
+    ],
+    "altNota": [
+      "Tonka Fasulyesi",
+      "Meyan Kökü",
+      "Değerli Odunlar",
+      "Misk",
+      "Amber",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Jean Paul Gaultier",
+    "adi": "Le Male Elixir Absolu",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Jean Paul Gaultier Le Male Elixir Absolu - Kışlık için uygun erkek parfümü.",
+    "notalar": [
+      "Erik",
+      "Tarçın",
+      "Kakule",
+      "Bergamot",
+      "Lavanta",
+      "Davana",
+      "Artemisia",
+      "Tonka Fasulyesi",
+      "Benzoin",
+      "Ambrette (Misk Tohumu)",
+      "Paçuli",
+      "Labdanum"
+    ],
+    "ustNota": [
+      "Erik",
+      "Tarçın",
+      "Kakule",
+      "Bergamot"
+    ],
+    "ortaNota": [
+      "Lavanta",
+      "Davana",
+      "Artemisia"
+    ],
+    "altNota": [
+      "Tonka Fasulyesi",
+      "Benzoin",
+      "Ambrette (Misk Tohumu)",
+      "Paçuli",
+      "Labdanum"
+    ]
+  },
+  {
+    "marka": "Roja Parfums",
+    "adi": "Enigma Pour Homme Parfum Cologne",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Roja Parfums Enigma Pour Homme Parfum Cologne - Kışlık için uygun erkek parfümü.",
+    "notalar": [
+      "Bergamot",
+      "Helyotrop",
+      "Yasemin",
+      "Sardunya",
+      "Neroli",
+      "Mayıs Gülü",
+      "Konyak",
+      "Vanilya",
+      "Benzoin",
+      "Tütün",
+      "Zencefil",
+      "Ambergris",
+      "Kakule",
+      "Sandal Ağacı",
+      "Karabiber",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Bergamot"
+    ],
+    "ortaNota": [
+      "Helyotrop",
+      "Yasemin",
+      "Sardunya",
+      "Neroli",
+      "Mayıs Gülü"
+    ],
+    "altNota": [
+      "Konyak",
+      "Vanilya",
+      "Benzoin",
+      "Tütün",
+      "Zencefil",
+      "Ambergris",
+      "Kakule",
+      "Sandal Ağacı",
+      "Karabiber",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Creed",
+    "adi": "Royal Oud",
+    "cinsiyet": "Unisex",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Creed Royal Oud - 4 Mevsim için uygun unisex parfüm.",
+    "notalar": [
+      "Pembe Biber",
+      "Limon",
+      "Sicilya Bergamotu",
+      "Sedir Ağacı",
+      "Melek Otu",
+      "Galbanum",
+      "Sandal Ağacı",
+      "Agarwood (Oud)",
+      "Misk"
+    ],
+    "ustNota": [
+      "Pembe Biber",
+      "Limon",
+      "Sicilya Bergamotu"
+    ],
+    "ortaNota": [
+      "Sedir Ağacı",
+      "Melek Otu",
+      "Galbanum"
+    ],
+    "altNota": [
+      "Sandal Ağacı",
+      "Agarwood (Oud)",
+      "Misk"
+    ]
+  },
+  {
+    "marka": "Nasomatto",
+    "adi": "Black Afgano",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Nasomatto Black Afgano - Kışlık için uygun unisex parfüm.",
+    "notalar": [
+      "Kenevir",
+      "Yeşil Notalar",
+      "Davana",
+      "Safran",
+      "Kekik",
+      "Reçineler",
+      "Odunsu Notalar",
+      "Tütün",
+      "Kahve",
+      "Tarçın",
+      "Menekşe",
+      "Ahududu",
+      "Agarwood (Oud)",
+      "Tütsü",
+      "Amber",
+      "Hayvansal Notalar",
+      "Guaiac Ağacı",
+      "Misk",
+      "Tonka Fasulyesi",
+      "Sedir Ağacı",
+      "Gurjan Balsamı",
+      "Ambroksan",
+      "Vanilya"
+    ],
+    "ustNota": [
+      "Kenevir",
+      "Yeşil Notalar",
+      "Davana",
+      "Safran",
+      "Kekik"
+    ],
+    "ortaNota": [
+      "Reçineler",
+      "Odunsu Notalar",
+      "Tütün",
+      "Kahve",
+      "Tarçın",
+      "Menekşe",
+      "Ahududu"
+    ],
+    "altNota": [
+      "Agarwood (Oud)",
+      "Tütsü",
+      "Amber",
+      "Hayvansal Notalar",
+      "Guaiac Ağacı",
+      "Misk",
+      "Tonka Fasulyesi",
+      "Sedir Ağacı",
+      "Gurjan Balsamı",
+      "Ambroksan",
+      "Vanilya"
+    ]
+  },
+  {
+    "marka": "Tiziana Terenzi",
+    "adi": "Kirke Overdose",
+    "cinsiyet": "Unisex",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Tiziana Terenzi Kirke Overdose - 4 Mevsim için uygun unisex parfüm.",
+    "notalar": [
+      "Şeftali",
+      "Ahududu",
+      "Çarkıfelek Meyvesi",
+      "Bulgar Gülü",
+      "Gardenya",
+      "Kum",
+      "Siyah Frenk Üzümü",
+      "Yasemin Sambac",
+      "Müge Çiçeği",
+      "Misk",
+      "Bourbon Vanilya",
+      "Ambergris",
+      "Avustralya Sandal Ağacı",
+      "Helyotrop",
+      "Hint Paçulisi"
+    ],
+    "ustNota": [
+      "Şeftali",
+      "Ahududu",
+      "Çarkıfelek Meyvesi",
+      "Bulgar Gülü"
+    ],
+    "ortaNota": [
+      "Gardenya",
+      "Kum",
+      "Siyah Frenk Üzümü",
+      "Yasemin Sambac",
+      "Müge Çiçeği"
+    ],
+    "altNota": [
+      "Misk",
+      "Bourbon Vanilya",
+      "Ambergris",
+      "Avustralya Sandal Ağacı",
+      "Helyotrop",
+      "Hint Paçulisi"
+    ]
+  },
+  {
+    "marka": "Lacoste",
+    "adi": "L.12.12 Blanc",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Lacoste L.12.12 Blanc - Yazlık için uygun erkek parfümü.",
+    "notalar": [
+      "Yeşil Notalar",
+      "Finger Lime",
+      "Okaliptüs",
+      "Kakule",
+      "Çam Ağacı",
+      "Sedir Ağacı"
+    ],
+    "ustNota": [
+      "Yeşil Notalar",
+      "Finger Lime"
+    ],
+    "ortaNota": [
+      "Okaliptüs",
+      "Kakule"
+    ],
+    "altNota": [
+      "Çam Ağacı",
+      "Sedir Ağacı"
+    ]
+  },
+  {
+    "marka": "Laura Biagiotti",
+    "adi": "Roma Uomo",
+    "cinsiyet": "Erkek",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Laura Biagiotti Roma Uomo - 4 Mevsim için uygun erkek parfümü.",
+    "notalar": [
+      "Greyfurt",
+      "Bergamot",
+      "Fesleğen",
+      "Defne Yaprağı",
+      "Helyotrop",
+      "Yasemin",
+      "Sardunya",
+      "Ardıç Meyveleri",
+      "Balsam Köknarı",
+      "Benzoin",
+      "Sandal Ağacı",
+      "Sedir Ağacı",
+      "Paçuli",
+      "Amber",
+      "Misk",
+      "Massoia Ağacı",
+      "Meşe Yosunu"
+    ],
+    "ustNota": [
+      "Greyfurt",
+      "Bergamot",
+      "Fesleğen",
+      "Defne Yaprağı"
+    ],
+    "ortaNota": [
+      "Helyotrop",
+      "Yasemin",
+      "Sardunya",
+      "Ardıç Meyveleri",
+      "Balsam Köknarı"
+    ],
+    "altNota": [
+      "Benzoin",
+      "Sandal Ağacı",
+      "Sedir Ağacı",
+      "Paçuli",
+      "Amber",
+      "Misk",
+      "Massoia Ağacı",
+      "Meşe Yosunu"
+    ]
+  },
+  {
+    "marka": "Givenchy",
+    "adi": "Pi",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Givenchy Pi - Kışlık için uygun erkek parfümü.",
+    "notalar": [
+      "Mandalina",
+      "Tarhun",
+      "Biberiye",
+      "Fesleğen",
+      "Anason",
+      "Neroli",
+      "Sardunya",
+      "Müge Çiçeği",
+      "Vanilya",
+      "Badem",
+      "Tonka Fasulyesi",
+      "Benzoin",
+      "Sedir Ağacı"
+    ],
+    "ustNota": [
+      "Mandalina",
+      "Tarhun",
+      "Biberiye",
+      "Fesleğen"
+    ],
+    "ortaNota": [
+      "Anason",
+      "Neroli",
+      "Sardunya",
+      "Müge Çiçeği"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Badem",
+      "Tonka Fasulyesi",
+      "Benzoin",
+      "Sedir Ağacı"
+    ]
+  },
+  {
+    "marka": "Givenchy",
+    "adi": "Irresistible 2020",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Givenchy Irresistible 2020 - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Armut",
+      "Ambrette (Misk Tohumu)",
+      "Gül",
+      "İris",
+      "Misk",
+      "Virginia Sediri"
+    ],
+    "ustNota": [
+      "Armut",
+      "Ambrette (Misk Tohumu)"
+    ],
+    "ortaNota": [
+      "Gül",
+      "İris"
+    ],
+    "altNota": [
+      "Misk",
+      "Virginia Sediri"
+    ]
+  },
+  {
+    "marka": "Jean Paul Gaultier",
+    "adi": "La Belle Women",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Jean Paul Gaultier La Belle Women - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Armut",
+      "Bergamot",
+      "Çiçeksi Notalar",
+      "Deri",
+      "Vanilya",
+      "Vetiver",
+      "Amber",
+      "Misk"
+    ],
+    "ustNota": [
+      "Armut",
+      "Bergamot"
+    ],
+    "ortaNota": [
+      "Çiçeksi Notalar",
+      "Deri"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Vetiver",
+      "Amber",
+      "Misk"
+    ]
+  },
+  {
+    "marka": "Bvlgari",
+    "adi": "Omnia Crystalline",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Bvlgari Omnia Crystalline - Yazlık için uygun kadın parfümü.",
+    "notalar": [
+      "Bambu",
+      "Armut",
+      "Lotus",
+      "Çay",
+      "Kasya",
+      "Misk",
+      "Guaiac Ağacı",
+      "Meşe Yosunu"
+    ],
+    "ustNota": [
+      "Bambu",
+      "Armut"
+    ],
+    "ortaNota": [
+      "Lotus",
+      "Çay",
+      "Kasya"
+    ],
+    "altNota": [
+      "Misk",
+      "Guaiac Ağacı",
+      "Meşe Yosunu"
+    ]
+  },
+  {
+    "marka": "Dior",
+    "adi": "Miss Cherie",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Dior Miss Cherie - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Kiraz",
+      "Çilek",
+      "Ananas",
+      "Mandalina",
+      "Patlamış Mısır",
+      "Karamel",
+      "Gül",
+      "Yasemin",
+      "Menekşe",
+      "Paçuli",
+      "Misk",
+      "Amber"
+    ],
+    "ustNota": [
+      "Kiraz",
+      "Çilek",
+      "Ananas",
+      "Mandalina"
+    ],
+    "ortaNota": [
+      "Patlamış Mısır",
+      "Karamel",
+      "Gül",
+      "Yasemin",
+      "Menekşe"
+    ],
+    "altNota": [
+      "Paçuli",
+      "Misk",
+      "Amber"
+    ]
+  },
+  {
+    "marka": "Dior",
+    "adi": "Dior Addict Eau Fraiche 2014",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Dior Dior Addict Eau Fraiche 2014 - Yazlık için uygun kadın parfümü.",
+    "notalar": [
+      "Kalabriya Bergamotu",
+      "Greyfurt",
+      "Frezya",
+      "Müge Çiçeği",
+      "Beyaz Misk",
+      "Odunsu Notalar"
+    ],
+    "ustNota": [
+      "Kalabriya Bergamotu",
+      "Greyfurt"
+    ],
+    "ortaNota": [
+      "Frezya",
+      "Müge Çiçeği"
+    ],
+    "altNota": [
+      "Beyaz Misk",
+      "Odunsu Notalar"
+    ]
+  },
+  {
+    "marka": "Givenchy",
+    "adi": "L'Interdit Rouge",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Givenchy L'Interdit Rouge - Kışlık için uygun kadın parfümü.",
+    "notalar": [
+      "Zencefil",
+      "Kan Portakalı",
+      "Sümbülteber",
+      "Yasemin",
+      "Yenibahar Yaprağı",
+      "Sandal Ağacı",
+      "Paçuli",
+      "Vetiver"
+    ],
+    "ustNota": [
+      "Zencefil",
+      "Kan Portakalı"
+    ],
+    "ortaNota": [
+      "Sümbülteber",
+      "Yasemin",
+      "Yenibahar Yaprağı"
+    ],
+    "altNota": [
+      "Sandal Ağacı",
+      "Paçuli",
+      "Vetiver"
+    ]
+  },
+  {
+    "marka": "Gucci",
+    "adi": "Rush",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Gucci Rush - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Şeftali",
+      "Kaliforniya Gardenyası",
+      "Afrika Frezya Yaprakları",
+      "Kişniş",
+      "Şam Gülü",
+      "Yasemin",
+      "Paçuli",
+      "Doğal Vanilya",
+      "Vetiver"
+    ],
+    "ustNota": [
+      "Şeftali",
+      "Kaliforniya Gardenyası",
+      "Afrika Frezya Yaprakları"
+    ],
+    "ortaNota": [
+      "Kişniş",
+      "Şam Gülü",
+      "Yasemin"
+    ],
+    "altNota": [
+      "Paçuli",
+      "Doğal Vanilya",
+      "Vetiver"
+    ]
+  },
+  {
+    "marka": "Narcisso Rodriguez",
+    "adi": "Narciso Poudree",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Narcisso Rodriguez Narciso Poudree - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Yasemin",
+      "Bulgar Gülü",
+      "Portakal Çiçeği",
+      "Misk",
+      "Kumarin",
+      "Sedir Ağacı",
+      "Vetiver",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Yasemin",
+      "Bulgar Gülü",
+      "Portakal Çiçeği"
+    ],
+    "ortaNota": [
+      "Misk"
+    ],
+    "altNota": [
+      "Kumarin",
+      "Sedir Ağacı",
+      "Vetiver",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Yves Saint Laurent",
+    "adi": "Manifesto",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Yves Saint Laurent Manifesto - Kışlık için uygun kadın parfümü.",
+    "notalar": [
+      "Siyah Frenk Üzümü",
+      "Bergamot",
+      "Yeşil Notalar",
+      "Yasemin Sambac",
+      "Müge Çiçeği",
+      "Vanilya",
+      "Tonka Fasulyesi",
+      "Sandal Ağacı",
+      "Sedir Ağacı"
+    ],
+    "ustNota": [
+      "Siyah Frenk Üzümü",
+      "Bergamot",
+      "Yeşil Notalar"
+    ],
+    "ortaNota": [
+      "Yasemin Sambac",
+      "Müge Çiçeği"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Tonka Fasulyesi",
+      "Sandal Ağacı",
+      "Sedir Ağacı"
+    ]
+  },
+  {
+    "marka": "Yves Saint Laurent",
+    "adi": "Mon Paris",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Yves Saint Laurent Mon Paris - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Çilek",
+      "Ahududu",
+      "Armut",
+      "Portakal",
+      "Kalabriya Bergamotu",
+      "Mandalina",
+      "Calone",
+      "Şakayık",
+      "Yasemin Sambac",
+      "Çin Yasemini",
+      "Datura",
+      "Portakal Çiçeği",
+      "Endonezya Paçuli Yaprağı",
+      "Paçuli",
+      "Beyaz Misk",
+      "Vanilya",
+      "Ambroksan",
+      "Yosun",
+      "Sedir Ağacı"
+    ],
+    "ustNota": [
+      "Çilek",
+      "Ahududu",
+      "Armut",
+      "Portakal",
+      "Kalabriya Bergamotu",
+      "Mandalina",
+      "Calone"
+    ],
+    "ortaNota": [
+      "Şakayık",
+      "Yasemin Sambac",
+      "Çin Yasemini",
+      "Datura",
+      "Portakal Çiçeği"
+    ],
+    "altNota": [
+      "Endonezya Paçuli Yaprağı",
+      "Paçuli",
+      "Beyaz Misk",
+      "Vanilya",
+      "Ambroksan",
+      "Yosun",
+      "Sedir Ağacı"
+    ]
+  },
+  {
+    "marka": "Jean Paul Gaultier",
+    "adi": "Scandal Le Parfum Women",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Jean Paul Gaultier Scandal Le Parfum Women - Kışlık için uygun kadın parfümü.",
+    "notalar": [
+      "Yasemin",
+      "Karamel",
+      "Tuz",
+      "Vanilya"
+    ],
+    "ustNota": [
+      "Yasemin"
+    ],
+    "ortaNota": [
+      "Karamel",
+      "Tuz"
+    ],
+    "altNota": [
+      "Vanilya"
+    ]
+  },
+  {
+    "marka": "Guerlain",
+    "adi": "Mon Guerlain",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Guerlain Mon Guerlain - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Lavanta",
+      "Bergamot",
+      "İris",
+      "Yasemin Sambac",
+      "Gül",
+      "Tahitian Vanilya",
+      "Kumarin",
+      "Avustralya Sandal Ağacı",
+      "Meyan Kökü",
+      "Benzoin",
+      "Paçuli"
+    ],
+    "ustNota": [
+      "Lavanta",
+      "Bergamot"
+    ],
+    "ortaNota": [
+      "İris",
+      "Yasemin Sambac",
+      "Gül"
+    ],
+    "altNota": [
+      "Tahitian Vanilya",
+      "Kumarin",
+      "Avustralya Sandal Ağacı",
+      "Meyan Kökü",
+      "Benzoin",
+      "Paçuli"
+    ]
+  },
+  {
+    "marka": "Emporio Armani",
+    "adi": "White",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Emporio Armani White - Yazlık için uygun kadın parfümü.",
+    "notalar": [
+      "Bergamot",
+      "Portakal",
+      "Mandalina",
+      "Kasya",
+      "Siyah Frenk Üzümü",
+      "Zencefil",
+      "İris",
+      "İncir Yaprağı",
+      "Nane",
+      "Karanfil",
+      "Beyaz Misk",
+      "Beyaz Odunlar"
+    ],
+    "ustNota": [
+      "Bergamot",
+      "Portakal",
+      "Mandalina",
+      "Kasya",
+      "Siyah Frenk Üzümü"
+    ],
+    "ortaNota": [
+      "Zencefil",
+      "İris",
+      "İncir Yaprağı",
+      "Nane",
+      "Karanfil"
+    ],
+    "altNota": [
+      "Beyaz Misk",
+      "Beyaz Odunlar"
+    ]
+  },
+  {
+    "marka": "Parfums De Marly",
+    "adi": "Carlisle",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Parfums De Marly Carlisle - Kışlık için uygun unisex parfüm.",
+    "notalar": [
+      "Muskat Cevizi",
+      "Yeşil Elma",
+      "Safran",
+      "Tonka Fasulyesi",
+      "Gül",
+      "Osmanthus",
+      "Davana",
+      "Paçuli",
+      "Vanilya",
+      "Opoponax"
+    ],
+    "ustNota": [
+      "Muskat Cevizi",
+      "Yeşil Elma",
+      "Safran"
+    ],
+    "ortaNota": [
+      "Tonka Fasulyesi",
+      "Gül",
+      "Osmanthus",
+      "Davana"
+    ],
+    "altNota": [
+      "Paçuli",
+      "Vanilya",
+      "Opoponax"
+    ]
+  },
+  {
+    "marka": "Maison Francis Kurkdjian",
+    "adi": "Baccarat Rouge 540",
+    "cinsiyet": "Unisex",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Maison Francis Kurkdjian Baccarat Rouge 540 - 4 Mevsim için uygun unisex parfüm.",
+    "notalar": [
+      "Safran",
+      "Yasemin",
+      "Amberwood",
+      "Ambergris",
+      "Hedione",
+      "Köknar Reçinesi",
+      "Sedir Ağacı",
+      "Şeker",
+      "Ambroksan",
+      "Meşe Yosunu"
+    ],
+    "ustNota": [
+      "Safran",
+      "Yasemin"
+    ],
+    "ortaNota": [
+      "Amberwood",
+      "Ambergris",
+      "Hedione"
+    ],
+    "altNota": [
+      "Köknar Reçinesi",
+      "Sedir Ağacı",
+      "Şeker",
+      "Ambroksan",
+      "Meşe Yosunu"
+    ]
+  },
+  {
+    "marka": "Maison Francis Kurkdjian",
+    "adi": "Gentle Fluidity Gold",
+    "cinsiyet": "Unisex",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Maison Francis Kurkdjian Gentle Fluidity Gold - 4 Mevsim için uygun unisex parfüm.",
+    "notalar": [
+      "Ardıç Meyveleri",
+      "Muskat Cevizi",
+      "Kişniş",
+      "Şam Gülü",
+      "Yasemin",
+      "Vanilya",
+      "Misk",
+      "Karamel",
+      "Amberwood"
+    ],
+    "ustNota": [
+      "Ardıç Meyveleri",
+      "Muskat Cevizi"
+    ],
+    "ortaNota": [
+      "Kişniş",
+      "Şam Gülü",
+      "Yasemin"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Misk",
+      "Karamel",
+      "Amberwood"
+    ]
+  },
+  {
+    "marka": "Mancera",
+    "adi": "Instant Crush",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Mancera Instant Crush - Kışlık için uygun unisex parfüm.",
+    "notalar": [
+      "Safran",
+      "Zencefil",
+      "Sicilya Mandalinası",
+      "Sicilya Bergamotu",
+      "Amberwood",
+      "Fas Gülü",
+      "Mısır Yasemini",
+      "Endonezya Paçuli Yaprağı",
+      "Madagaskar Vanilyası",
+      "Beyaz Misk",
+      "Sandal Ağacı",
+      "Meşe Yosunu"
+    ],
+    "ustNota": [
+      "Safran",
+      "Zencefil",
+      "Sicilya Mandalinası",
+      "Sicilya Bergamotu"
+    ],
+    "ortaNota": [
+      "Amberwood",
+      "Fas Gülü",
+      "Mısır Yasemini",
+      "Endonezya Paçuli Yaprağı"
+    ],
+    "altNota": [
+      "Madagaskar Vanilyası",
+      "Beyaz Misk",
+      "Sandal Ağacı",
+      "Meşe Yosunu"
+    ]
+  },
+  {
+    "marka": "Louis Vuitton",
+    "adi": "Pacific Chill",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Louis Vuitton Pacific Chill - Yazlık için uygun unisex parfüm.",
+    "notalar": [
+      "Ağaç Limonu (Citron)",
+      "Portakal",
+      "Limon",
+      "Nane",
+      "Siyah Frenk Üzümü",
+      "Kişniş",
+      "Kayısı",
+      "Fesleğen",
+      "Havuç Tohumu",
+      "Mayıs Gülü",
+      "İncir",
+      "Hurma",
+      "Ambrette (Misk Tohumu)"
+    ],
+    "ustNota": [
+      "Ağaç Limonu (Citron)",
+      "Portakal",
+      "Limon",
+      "Nane",
+      "Siyah Frenk Üzümü",
+      "Kişniş"
+    ],
+    "ortaNota": [
+      "Kayısı",
+      "Fesleğen",
+      "Havuç Tohumu",
+      "Mayıs Gülü"
+    ],
+    "altNota": [
+      "İncir",
+      "Hurma",
+      "Ambrette (Misk Tohumu)"
+    ]
+  },
+  {
+    "marka": "Giorgio Armani",
+    "adi": "Prive Rouge Malachite",
+    "cinsiyet": "Unisex",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Giorgio Armani Prive Rouge Malachite - 4 Mevsim için uygun unisex parfüm.",
+    "notalar": [
+      "Sümbülteber",
+      "Pembe Biber",
+      "Misk Adaçayı",
+      "Yasemin Sambac",
+      "Ylang-Ylang",
+      "Benzoin",
+      "Kaşmeran",
+      "Portakal Çiçeği",
+      "Amber"
+    ],
+    "ustNota": [
+      "Sümbülteber",
+      "Pembe Biber",
+      "Misk Adaçayı"
+    ],
+    "ortaNota": [
+      "Sümbülteber",
+      "Yasemin Sambac",
+      "Ylang-Ylang",
+      "Benzoin",
+      "Kaşmeran",
+      "Portakal Çiçeği"
+    ],
+    "altNota": [
+      "Sümbülteber",
+      "Amber"
+    ]
+  },
+  {
+    "marka": "Bdk Parfums",
+    "adi": "Gris Charnel Extrait",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Bdk Parfums Gris Charnel Extrait - Kışlık için uygun unisex parfüm.",
+    "notalar": [
+      "Kakule",
+      "İncir",
+      "Siyah Çay",
+      "İris",
+      "Bourbon Vetiver",
+      "Cistus Incanus",
+      "Sandal Ağacı",
+      "Madagaskar Vanilyası",
+      "Tonka Fasulyesi",
+      "Sedir Ağacı",
+      "Endonezya Paçuli Yaprağı"
+    ],
+    "ustNota": [
+      "Kakule",
+      "İncir",
+      "Siyah Çay"
+    ],
+    "ortaNota": [
+      "İris",
+      "Bourbon Vetiver",
+      "Cistus Incanus"
+    ],
+    "altNota": [
+      "Sandal Ağacı",
+      "Madagaskar Vanilyası",
+      "Tonka Fasulyesi",
+      "Sedir Ağacı",
+      "Endonezya Paçuli Yaprağı"
+    ]
+  },
+  {
+    "marka": "Mont Blanc",
+    "adi": "Signature Women",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Mont Blanc Signature Women - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Klementin",
+      "Manolya",
+      "Ylang-Ylang",
+      "Şakayık",
+      "Vanilya",
+      "Beyaz Misk",
+      "Benzoin"
+    ],
+    "ustNota": [
+      "Klementin"
+    ],
+    "ortaNota": [
+      "Manolya",
+      "Ylang-Ylang",
+      "Şakayık"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Beyaz Misk",
+      "Benzoin"
+    ]
+  },
+  {
+    "marka": "Victoria's Secret",
+    "adi": "Bombshell Celebration",
+    "cinsiyet": "Kadın",
+    "idealSezon": "4 Mevsim",
+    "kisaAciklama": "Victoria's Secret Bombshell Celebration - 4 Mevsim için uygun kadın parfümü.",
+    "notalar": [
+      "Şampanya",
+      "Pembe Şakayık",
+      "Odunsu Notalar",
+      "Ladin",
+      "Sandal Ağacı"
+    ],
+    "ustNota": [
+      "Şampanya"
+    ],
+    "ortaNota": [
+      "Pembe Şakayık"
+    ],
+    "altNota": [
+      "Odunsu Notalar",
+      "Ladin",
+      "Sandal Ağacı"
+    ]
+  },
+  {
+    "marka": "Xerjoff",
+    "adi": "Alexandria II Anniversary",
+    "cinsiyet": "Unisex",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Xerjoff Alexandria II Anniversary - Kışlık için uygun unisex parfüm.",
+    "notalar": [
+      "Lavanta",
+      "Bulgar Gülü",
+      "Kakule",
+      "Kimyon",
+      "Oud",
+      "Misk Kedisi (Civet)",
+      "Amber",
+      "Orris (Süsen Kökü)",
+      "Cypriol Yağı (Nagarmotha)",
+      "Pelin Otu",
+      "Nane",
+      "Misk Adaçayı",
+      "Avustralya Sandal Ağacı",
+      "Vanilya",
+      "Misk"
+    ],
+    "ustNota": [
+      "Lavanta",
+      "Bulgar Gülü",
+      "Kakule",
+      "Kimyon"
+    ],
+    "ortaNota": [
+      "Oud",
+      "Misk Kedisi (Civet)",
+      "Amber",
+      "Orris (Süsen Kökü)",
+      "Cypriol Yağı (Nagarmotha)",
+      "Pelin Otu",
+      "Nane",
+      "Misk Adaçayı"
+    ],
+    "altNota": [
+      "Avustralya Sandal Ağacı",
+      "Vanilya",
+      "Misk"
+    ]
+  },
+  {
+    "marka": "Versace",
+    "adi": "Blue Jeans",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Yazlık",
+    "kisaAciklama": "Versace Blue Jeans - Yazlık için uygun erkek parfümü.",
+    "notalar": [
+      "Narenciye Notaları",
+      "Bergamot",
+      "Ardıç",
+      "Anason",
+      "Brezilya Gül Ağacı",
+      "Fesleğen",
+      "Lavanta",
+      "Gül",
+      "Karanfil Çiçeği",
+      "Yasemin",
+      "Sardunya",
+      "Adaçayı",
+      "Helyotrop",
+      "Köknar",
+      "Müge Çiçeği",
+      "Vanilya",
+      "Tonka Fasulyesi",
+      "Sandal Ağacı",
+      "İris",
+      "Misk",
+      "Sedir Ağacı",
+      "Amber",
+      "Paçuli",
+      "Vetiver"
+    ],
+    "ustNota": [
+      "Narenciye Notaları",
+      "Bergamot",
+      "Ardıç",
+      "Anason",
+      "Brezilya Gül Ağacı",
+      "Fesleğen"
+    ],
+    "ortaNota": [
+      "Lavanta",
+      "Gül",
+      "Karanfil Çiçeği",
+      "Yasemin",
+      "Sardunya",
+      "Adaçayı",
+      "Helyotrop",
+      "Köknar",
+      "Müge Çiçeği"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Tonka Fasulyesi",
+      "Sandal Ağacı",
+      "İris",
+      "Misk",
+      "Sedir Ağacı",
+      "Amber",
+      "Paçuli",
+      "Vetiver"
+    ]
+  },
+  {
+    "marka": "Lalique",
+    "adi": "Encre Noire Pour Homme",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Lalique Encre Noire Pour Homme - Kışlık için uygun erkek parfümü.",
+    "notalar": [
+      "Servi",
+      "Vetiver",
+      "Kaşmir Ağacı",
+      "Misk"
+    ],
+    "ustNota": [
+      "Servi"
+    ],
+    "ortaNota": [
+      "Vetiver"
+    ],
+    "altNota": [
+      "Kaşmir Ağacı",
+      "Misk"
+    ]
+  },
+  {
+    "marka": "Hugo Boss",
+    "adi": "Number One",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Hugo Boss Number One - Kışlık için uygun erkek parfümü.",
+    "notalar": [
+      "Artemisia",
+      "Ardıç",
+      "Bergamot",
+      "Kimyon Tohumu",
+      "Limon",
+      "Fesleğen",
+      "Yeşil Elma",
+      "Greyfurt",
+      "Bal",
+      "Lavanta",
+      "Gül",
+      "Adaçayı",
+      "Yasemin",
+      "Sardunya",
+      "Orris Kökü (Süsen Kökü)",
+      "Müge Çiçeği",
+      "Tütün",
+      "Meşe Yosunu",
+      "Paçuli",
+      "Sandal Ağacı",
+      "Misk",
+      "Amber",
+      "Tarçın",
+      "Sedir Ağacı"
+    ],
+    "ustNota": [
+      "Artemisia",
+      "Ardıç",
+      "Bergamot",
+      "Kimyon Tohumu",
+      "Limon",
+      "Fesleğen",
+      "Yeşil Elma",
+      "Greyfurt"
+    ],
+    "ortaNota": [
+      "Bal",
+      "Lavanta",
+      "Gül",
+      "Adaçayı",
+      "Yasemin",
+      "Sardunya",
+      "Orris Kökü (Süsen Kökü)",
+      "Müge Çiçeği"
+    ],
+    "altNota": [
+      "Tütün",
+      "Meşe Yosunu",
+      "Paçuli",
+      "Sandal Ağacı",
+      "Misk",
+      "Amber",
+      "Tarçın",
+      "Sedir Ağacı"
+    ]
+  },
+  {
+    "marka": "Hugo Boss",
+    "adi": "Boss The Scent Elixir For Her",
+    "cinsiyet": "Kadın",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Hugo Boss Boss The Scent Elixir For Her - Kışlık için uygun kadın parfümü.",
+    "notalar": [
+      "Pembe Biber",
+      "Belladonna",
+      "Ambergris"
+    ],
+    "ustNota": [
+      "Pembe Biber"
+    ],
+    "ortaNota": [
+      "Belladonna"
+    ],
+    "altNota": [
+      "Ambergris"
+    ]
+  },
+  {
+    "marka": "Hugo Boss",
+    "adi": "Boss Bottled Intense",
+    "cinsiyet": "Erkek",
+    "idealSezon": "Kışlık",
+    "kisaAciklama": "Hugo Boss Boss Bottled Intense - Kışlık için uygun erkek parfümü.",
+    "notalar": [
+      "Elma",
+      "Portakal Çiçeği",
+      "Bergamot",
+      "Tarçın",
+      "Karanfil",
+      "Kakule",
+      "Sardunya",
+      "Lavanta",
+      "Vanilya",
+      "Sandal Ağacı",
+      "Kumarin",
+      "Sedir Ağacı",
+      "Vetiver"
+    ],
+    "ustNota": [
+      "Elma",
+      "Portakal Çiçeği",
+      "Bergamot"
+    ],
+    "ortaNota": [
+      "Tarçın",
+      "Karanfil",
+      "Kakule",
+      "Sardunya",
+      "Lavanta"
+    ],
+    "altNota": [
+      "Vanilya",
+      "Sandal Ağacı",
+      "Kumarin",
+      "Sedir Ağacı",
+      "Vetiver"
+    ]
   }
 ];
-
