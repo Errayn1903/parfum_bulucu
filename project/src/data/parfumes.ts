@@ -955,28 +955,36 @@ export const parfumes: Parfume[] = [
       "Ananas",
       "Bergamot",
       "İris",
+      "Kırmızı Biber (Paprika)",
       "Yasemin",
-      "Sedir",
+      "Virginia Sediri",
       "Tarçın",
       "Meşe Yosunu",
+      "Amber",
       "Vetiver",
-      "Vanilya",
-      "Labdanum"
+      "Storaks",
+      "Fransız Labdanumu",
+      "Vanilya"
     ],
     "ustNota": [
       "Ravent",
       "Ananas",
-      "Bergamot",
-      "İris",
-      "Yasemin",
-      "Sedir",
-      "Tarçın",
-      "Meşe Yosunu"
+      "Bergamot"
     ],
     "ortaNota": [
+      "İris",
+      "Kırmızı Biber (Paprika)",
+      "Yasemin"
+    ],
+    "altNota": [
+      "Virginia Sediri",
+      "Tarçın",
+      "Meşe Yosunu",
+      "Amber",
       "Vetiver",
-      "Vanilya",
-      "Labdanum"
+      "Storaks",
+      "Fransız Labdanumu",
+      "Vanilya"
     ]
   },
   {
